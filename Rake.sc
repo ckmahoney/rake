@@ -1,27 +1,3 @@
-/**
-spectral point(t)
-
-- frequency
-- motion
-- sway
-- width
-- dilation
-- amp
-- decay
-
-rake -> (weight, spectral point)
-*/
-
-/*
-
-var point = {|f=3000, sway=0, width=1, amp=0|
-
-
-};
-
-*/
-
-
 Rake {
 	*pulse {
 		var peaks = [ [1, 1], [1/3, 3], [1/3, 5], [1/5, 15]];
