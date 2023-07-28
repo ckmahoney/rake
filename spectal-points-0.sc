@@ -53,8 +53,3 @@ Pbindef(\player,
 	\out, 0
 ).play;
 )
-
-
-x.free;
-
-b[0].bufnum
