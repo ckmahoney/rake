@@ -1,4 +1,3 @@
-
 (
 var gen = Rake.wavy;
 var contrast = 2.pow(10);
@@ -53,10 +52,4 @@ Pbindef(\player,
 	\bufmax, Pn(b.size),
 	\out, 0
 ).play;
-t=table;
 )
-t.size
-t[0][99][2]
-x.free;
-
-b[0].bufnum
